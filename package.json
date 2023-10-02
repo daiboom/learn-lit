@@ -1,0 +1,11 @@
+{
+  "name": "learn-lit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+   
+    "lit": "^2.8.0"
+  },
+  "devDependencies": { "@web-types/lit": "^2.0.0-3"}
+}
